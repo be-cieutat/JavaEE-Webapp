@@ -6,7 +6,7 @@ The webapp can only be accessed through user login, which can be performed manua
 Teachers to perform various operations on student populations through a user-friendly interface.
 
 ## To do
-☐ Create db <br>
+☑ Create db <br>
 ☐ Create webpage <br>
 ☐ Design HTML views <br>
 ☐ Implement account management <br>
