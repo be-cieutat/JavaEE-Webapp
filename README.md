@@ -7,7 +7,7 @@ Teachers to perform various operations on student populations through a user-fri
 
 ## To do
 ☑ Create db <br>
-☑ Create webapp Java EE project structure 
+☑ Create webapp Java EE project structure <br>
 ☐ Create webpage <br>
 ☐ Design HTML views <br>
 ☐ Implement account management <br>
